@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>首页</title>
+<title>首页hello</title>
 </head>
 <body>
 <h3><a href="StudentListServlet">显示学生信息列表</h3>
